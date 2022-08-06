@@ -4,6 +4,4 @@ spring:
   cloud:
     config:
       enabled: true
-      uri: http://localhost:8081
-logging:
-  file: C:/Users/HP/Desktop/logs/elk-stack.log
+      uri: http://config-service:8081
