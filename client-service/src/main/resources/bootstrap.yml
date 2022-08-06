@@ -5,3 +5,5 @@ spring:
     config:
       enabled: true
       uri: http://localhost:8081
+logging:
+  file: C:/Users/HP/Desktop/logs/elk-stack.log

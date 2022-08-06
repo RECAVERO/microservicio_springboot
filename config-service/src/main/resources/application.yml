@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          default-label: config-server
+          default-label: docker
           uri: https://github.com/RECAVERO/microservicio_springboot/
           search-paths: config-data
   application:
